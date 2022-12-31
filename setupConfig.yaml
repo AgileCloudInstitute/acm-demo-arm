@@ -20,7 +20,7 @@ source:
   - instanceName: azure-building-blocks
     repo: https://github.com/AgileCloudInstitute/azure-building-blocks.git
     branch: main
-    public: false
+    public: true
   - instanceName: acm-system-templates
     repo: https://github.com/AgileCloudInstitute/acm-system-templates.git
     branch: main
